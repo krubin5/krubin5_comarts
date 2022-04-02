@@ -1,0 +1,82 @@
+/* css document */
+
+
+h1{
+	color: mediumpurple;
+	text-align: center;
+	text-decoration:underline; 
+	font-weight:bold; 
+	text-transform:uppercase; 
+	letter-spacing:.2em; 
+}
+
+h2, h4 {
+	color: mediumpurple;
+}
+
+
+body {
+	background: lavender;	
+	font-family: arial, serif;
+}
+
+.nav_bar {
+	width: 860px;
+	margin:  auto;
+	font-size: 22px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 10px 20px 10px 20px;
+	text-align: center;
+}
+.nav_bar a {
+	color: rebeccapurple;
+	text-decoration: none;
+}
+
+.nav_bar a:hover {
+	color: blueviolet;
+	text-decoration: underline;
+}
+
+.profile {
+	border: 5px solid blueviolet;
+	margin: 10px;
+	float: right;
+	margin-right: 100px;
+	margin-bottom: 600px;
+	
+}
+
+.resume{
+	margin-left: 375px;
+	margin-right: 500px;
+	align-content: center;
+
+}
+
+.collage{
+	margin: 10px;
+	margin-left: 400px;
+	margin-right: 600px;
+	align-content: center;
+}
+
+.poster {
+	margin: 10px;
+	margin-left: 450px;
+	margin-right: 600px;
+	align-content: center;
+}
+
+
+
+
+
+body{
+	margin: 10px;
+
+}
+
+
+
